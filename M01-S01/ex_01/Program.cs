@@ -1,0 +1,18 @@
+﻿Console.WriteLine("Olá, Tudo bem? Qual o seu nome?");
+string nome = Console.ReadLine();
+Console.WriteLine("Qual o seu sobrenome");
+string sobrenome = Console.ReadLine();
+Console.WriteLine("Qual a sua idade?");
+int idade = int.Parse(Console.ReadLine());
+Console.WriteLine("Qual a sua cor favorita?");
+string cor = Console.ReadLine();
+Console.WriteLine("-----------------");
+Console.WriteLine("");
+Console.WriteLine("Nome: "+ nome);
+Console.WriteLine("Sobrenome: "+ sobrenome);
+Console.WriteLine("Idade: "+ idade);
+Console.WriteLine("Cor: "+ cor);
+Console.WriteLine("");
+Console.WriteLine("-----------------");
+Console.WriteLine("Pressione enter para sair");
+Console.ReadLine();
