@@ -1,0 +1,15 @@
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\temporarios\teste\SLNEstudante\Estudante\bin\Debug\net6.0\Estudante.exe
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\temporarios\teste\SLNEstudante\Estudante\bin\Debug\net6.0\Estudante.deps.json
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\temporarios\teste\SLNEstudante\Estudante\bin\Debug\net6.0\Estudante.runtimeconfig.json
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\temporarios\teste\SLNEstudante\Estudante\bin\Debug\net6.0\Estudante.dll
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\temporarios\teste\SLNEstudante\Estudante\bin\Debug\net6.0\Estudante.pdb
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\temporarios\teste\SLNEstudante\Estudante\obj\Debug\net6.0\Estudante.csproj.AssemblyReference.cache
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\temporarios\teste\SLNEstudante\Estudante\obj\Debug\net6.0\Estudante.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\temporarios\teste\SLNEstudante\Estudante\obj\Debug\net6.0\Estudante.AssemblyInfoInputs.cache
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\temporarios\teste\SLNEstudante\Estudante\obj\Debug\net6.0\Estudante.AssemblyInfo.cs
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\temporarios\teste\SLNEstudante\Estudante\obj\Debug\net6.0\Estudante.csproj.CoreCompileInputs.cache
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\temporarios\teste\SLNEstudante\Estudante\obj\Debug\net6.0\Estudante.dll
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\temporarios\teste\SLNEstudante\Estudante\obj\Debug\net6.0\refint\Estudante.dll
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\temporarios\teste\SLNEstudante\Estudante\obj\Debug\net6.0\Estudante.pdb
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\temporarios\teste\SLNEstudante\Estudante\obj\Debug\net6.0\Estudante.genruntimeconfig.cache
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\temporarios\teste\SLNEstudante\Estudante\obj\Debug\net6.0\ref\Estudante.dll

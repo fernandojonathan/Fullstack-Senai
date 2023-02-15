@@ -1,0 +1,15 @@
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S02\Ex_03\SLNEx_03\Ex_03\obj\Debug\net6.0\Ex_03.csproj.AssemblyReference.cache
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S02\Ex_03\SLNEx_03\Ex_03\obj\Debug\net6.0\Ex_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S02\Ex_03\SLNEx_03\Ex_03\obj\Debug\net6.0\Ex_03.AssemblyInfoInputs.cache
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S02\Ex_03\SLNEx_03\Ex_03\obj\Debug\net6.0\Ex_03.AssemblyInfo.cs
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S02\Ex_03\SLNEx_03\Ex_03\obj\Debug\net6.0\Ex_03.csproj.CoreCompileInputs.cache
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S02\Ex_03\SLNEx_03\Ex_03\bin\Debug\net6.0\Ex_03.exe
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S02\Ex_03\SLNEx_03\Ex_03\bin\Debug\net6.0\Ex_03.deps.json
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S02\Ex_03\SLNEx_03\Ex_03\bin\Debug\net6.0\Ex_03.runtimeconfig.json
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S02\Ex_03\SLNEx_03\Ex_03\bin\Debug\net6.0\Ex_03.dll
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S02\Ex_03\SLNEx_03\Ex_03\bin\Debug\net6.0\Ex_03.pdb
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S02\Ex_03\SLNEx_03\Ex_03\obj\Debug\net6.0\Ex_03.dll
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S02\Ex_03\SLNEx_03\Ex_03\obj\Debug\net6.0\refint\Ex_03.dll
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S02\Ex_03\SLNEx_03\Ex_03\obj\Debug\net6.0\Ex_03.pdb
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S02\Ex_03\SLNEx_03\Ex_03\obj\Debug\net6.0\Ex_03.genruntimeconfig.cache
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S02\Ex_03\SLNEx_03\Ex_03\obj\Debug\net6.0\ref\Ex_03.dll
