@@ -1,0 +1,39 @@
+Estudante.Estudantes estudantes = new Estudante.Estudantes("Matemática", 5);
+
+estudantes.Imprimir();
+
+---------------------------------------------------------------------------------------
+
+
+
+namespace Estudante
+{
+    public class Estudantes
+    {
+        public string Materia { get; set; }
+        public int Nota { get; set; }
+
+        public Estudantes(string materia, int nota) {
+            Materia = materia;
+            Nota = nota;
+
+        }
+        
+        public void Imprimir()
+        {
+            if (Nota < 7) {
+
+             Console.WriteLine($"Matéria: {Materia} | Nota: {Nota} | Reprovado!");
+        
+        } else
+            {
+             Console.WriteLine($"Matéria: {Materia} | Nota: {Nota} | Aprovado!");
+            }
+
+        }
+
+
+    }
+}
+
+

@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\Jonathan\\.nuget\\packages\\": {}
@@ -13,26 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\Jonathan\\Programação\\Fullstack\\Exercícios\\Fullstack-Senai\\M01-S02\\Ex_09\\Estudante.csproj",
-      "projectName": "Estudante",
-      "projectPath": "D:\\Documentos\\Jonathan\\Programação\\Fullstack\\Exercícios\\Fullstack-Senai\\M01-S02\\Ex_09\\Estudante.csproj",
+      "projectUniqueName": "D:\\Documentos\\Jonathan\\Programação\\Fullstack\\Exercícios\\Fullstack-Senai\\banco_sala\\banco_sala.csproj",
+      "projectName": "banco_sala",
+      "projectPath": "D:\\Documentos\\Jonathan\\Programação\\Fullstack\\Exercícios\\Fullstack-Senai\\banco_sala\\banco_sala.csproj",
       "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos\\Jonathan\\Programação\\Fullstack\\Exercícios\\Fullstack-Senai\\M01-S02\\Ex_09\\obj\\",
+      "outputPath": "D:\\Documentos\\Jonathan\\Programação\\Fullstack\\Exercícios\\Fullstack-Senai\\banco_sala\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -43,8 +43,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",

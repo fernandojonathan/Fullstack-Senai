@@ -10,22 +10,28 @@ namespace Estudante
     {
         public string Materia { get; set; }
         public int Nota { get; set; }
+        public string Pai {get ; set; }
 
-        public Estudantes(string materia, int nota) {
-            Materia = materia;
-            Nota = nota;
+        public Estudantes(string materia, int nota) 
+            {
+              Materia = materia;
+                Nota = nota;
+            }
+        public Estudantes(string materia, int nota, string pai): this (materia, nota )
+        {
+            Pai = pai;
         }
-
         public void Imprimir()
         {
-            if (Nota < 7) {
-
-             Console.WriteLine($"Matéria: {Materia} | Nota: {Nota} | Reprovado!");
-        
-        } else
+            if (Nota < 7) 
             {
-             Console.WriteLine($"Matéria: {Materia} | Nota: {Nota} | Aprovado!");
-            }
+
+             Console.WriteLine($"Responsável: {Pai} | Matéria: {Materia} | Nota: {Nota} | Reprovado!");
+        
+            } else
+                {
+                 Console.WriteLine($"Responsável: {Pai} | Matéria: {Materia} | Nota: {Nota} | Aprovado!");
+                }
 
         }
 
