@@ -6,31 +6,25 @@ using System.Threading.Tasks;
 
 namespace Ex_05
 {
-    internal class Cobrar
+    public class Cobrar
     {
+        
         private decimal Valor { get; set; }
         private decimal Multa { get; set; }
+        public decimal CalculoMulta { get ; set; }
 
-        public CalculosCons (decimal valor, decimal multa)
+      
+        public  Calculos (decimal valor, decimal multa)
         {
             Valor = valor;
             Multa = multa;
-        
-        
-        
-        
+            
+            CalculoMulta = valor +multa;
+            
         }
-
-        private static void CalcularMulta(decimal valor, decimal Multa)
-        {
-            decimal somaValor = valor + Multa;
-
-        }
-        public static void Calcular()
-        {
-            CalcularMulta();
-            Console.WriteLine($"Valor cobrado {valor}, Multa {Multa}, soma valor {somaValor}");
-        }
+       
+       
+        
 
 
 
