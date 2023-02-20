@@ -12,8 +12,7 @@ namespace Ex_01
         public bool Ativo { get; set; }
         public double Valor {  get ; set; }
 
-
-        
+               
         public DateTime CadEntrada (){
             
             Console.Clear();
@@ -38,19 +37,19 @@ namespace Ex_01
                  DateTime now = DateTime.Now;
                  Console.WriteLine($"Entrada cadastrada: {now}");
                  Console.ReadLine();
+                
+                 Ativo=true;
                  return Entrada = DateTime.Now;
 
+
             } else {
-                 Console.Clear();
-                 Console.WriteLine(".................... Pare Aqui ....................");
-                 Console.WriteLine("................ Emissão de tícket ................");
-                 Console.WriteLine("..................... Entrada ..................... ");
-                 Console.WriteLine("");
-                 Console.WriteLine("");
+                 
                  DateTime now = DateTime.Now;
                  Console.WriteLine($"Entrada cadastrada: {now}");
                  Console.ReadLine();
+                 Ativo=true;
                  return Entrada = DateTime.Now;
+
 
             }
         }
@@ -79,7 +78,7 @@ namespace Ex_01
                  DateTime now = DateTime.Now;
                  Console.WriteLine($"Saída cadastrada: {now}");
                  Console.ReadLine();
-                 return Saida = DateTime.Now;
+                                  return Saida = DateTime.Now;
 
             } else {
                  Console.Clear();
@@ -91,6 +90,7 @@ namespace Ex_01
                  DateTime now = DateTime.Now;
                  Console.WriteLine($"Saída cadastrada: {now}");
                  Console.ReadLine();
+                 
                  return Saida = DateTime.Now;
 
             }

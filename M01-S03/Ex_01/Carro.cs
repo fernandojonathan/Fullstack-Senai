@@ -12,12 +12,13 @@ namespace Ex_01
 
         public string Marca { get; set; }
         public string Cor { get; set; }
-        public string Tickets { get; set; }
-
-
+       
+        public List<Tickets> ListaTickets { get; set; }
+              
         public void CadCarro (){
             
             
+                        
             Console.Clear();
             Console.WriteLine(".................... Pare Aqui ....................");
             Console.WriteLine("............... Cadastro de veículo ...............");
