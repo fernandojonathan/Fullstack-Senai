@@ -1,0 +1,15 @@
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S03\Ex_01_new\bin\Debug\net7.0\Ex_01_new.exe
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S03\Ex_01_new\bin\Debug\net7.0\Ex_01_new.deps.json
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S03\Ex_01_new\bin\Debug\net7.0\Ex_01_new.runtimeconfig.json
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S03\Ex_01_new\bin\Debug\net7.0\Ex_01_new.dll
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S03\Ex_01_new\bin\Debug\net7.0\Ex_01_new.pdb
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S03\Ex_01_new\obj\Debug\net7.0\Ex_01_new.csproj.AssemblyReference.cache
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S03\Ex_01_new\obj\Debug\net7.0\Ex_01_new.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S03\Ex_01_new\obj\Debug\net7.0\Ex_01_new.AssemblyInfoInputs.cache
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S03\Ex_01_new\obj\Debug\net7.0\Ex_01_new.AssemblyInfo.cs
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S03\Ex_01_new\obj\Debug\net7.0\Ex_01_new.csproj.CoreCompileInputs.cache
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S03\Ex_01_new\obj\Debug\net7.0\Ex_01_new.dll
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S03\Ex_01_new\obj\Debug\net7.0\refint\Ex_01_new.dll
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S03\Ex_01_new\obj\Debug\net7.0\Ex_01_new.pdb
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S03\Ex_01_new\obj\Debug\net7.0\Ex_01_new.genruntimeconfig.cache
+D:\Documentos\Jonathan\Programação\Fullstack\Exercícios\Fullstack-Senai\M01-S03\Ex_01_new\obj\Debug\net7.0\ref\Ex_01_new.dll
