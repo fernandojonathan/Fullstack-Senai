@@ -13,25 +13,23 @@ namespace Ex_01_new
         public string Marca { get; set; }
         public string Cor { get; set; }
        
-        public List<Tickets> ListaTickets { get; set; }
+        public List<Tickets> Extrato { get; set; }
 
-       
-
-        void CarrosTicket() {
-
-            ListaTickets = new List<Tickets>();
-            
-        }
-
-       /*  public void consCarro (string placa, string modelo, string marca, string cor)
+        public Carros()
         {
-
+            Extrato = new List<Tickets>();
+        }
+                                                                            
+         //Construtor abaixo criado para facilitar os testes, deve ser EXCLUIDO PARA ENTREGAR A ATIVIDADE.                                                                   
+                                                                            //this chama o construtor anterior pois lá tem a lista
+        public Carros(string placa, string modelo, string marca, string cor) : this()
+        {
             Placa = placa;
             Modelo = modelo;
             Marca = marca;
             Cor = cor;
-                        
-        } */
-       
+            
+        }
+         
     }
 }
