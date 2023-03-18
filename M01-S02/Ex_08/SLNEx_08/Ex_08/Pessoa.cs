@@ -11,14 +11,15 @@ namespace Ex_08
         public string Nome { get; set; }
         public DateTime DataNascimento { get; set; }
 
-        public static void MostrarIdade()
+        public void MostrarIdade(string Nome, string Idade)
         {
             CalcularIdade();
-            Console.WriteLine($"Nome: {Nome}, tem {Idade} anos");
+         
         } 
 
-        private void CalcularIdade(DateTime DataNascimento)
+         public int CalcularIdade(DateTime DataNascimento)
         {
+
 
             var dataNascimento = new DateTime(1984, 1, 2);
             var dataAtual = DateTime.Now;
@@ -27,6 +28,11 @@ namespace Ex_08
             {
                 idade--;
             }
+
+            return idade;
+
+
+            
         }
     }
 }

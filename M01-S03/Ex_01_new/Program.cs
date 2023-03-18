@@ -152,7 +152,7 @@ void SaidaTicket(){
         return;
     }
 
-    Tickets ultimoTicket = carro.Extrato.FirstOrDefault();
+    Tickets ultimoTicket = carro.Extrato.LastOrDefault();
 
     if (!ultimoTicket.Ativo) {
         Console.WriteLine("Esse carro já saiu!");
@@ -192,7 +192,7 @@ void ExibirHistorico() {
     Console.WriteLine("Digite a placa do carro para exibir o histórico:");
     string placa = Console.ReadLine();
 
-    var carro = listaCarros.FirstOrDefault(c => c.Placa == placa);
+    var carro = listaCarros.LastOrDefault(c => c.Placa == placa);
 
     if (carro == null) {
         Console.WriteLine("Carro não encontrado.");

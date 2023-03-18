@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\Jonathan\\Programação\\Fullstack\\Exercícios\\Fullstack-Senai\\M01-S02\\Ex_03\\SLNEx_08\\Ex_08\\Ex_08.csproj": {}
+    "D:\\Documentos\\Jonathan\\Programação\\Fullstack\\Exercícios\\Fullstack-Senai\\M01-S02\\Ex_08\\SLNEx_08\\Ex_08\\Ex_08.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\Jonathan\\Programação\\Fullstack\\Exercícios\\Fullstack-Senai\\M01-S02\\Ex_03\\SLNEx_08\\Ex_08\\Ex_08.csproj": {
+    "D:\\Documentos\\Jonathan\\Programação\\Fullstack\\Exercícios\\Fullstack-Senai\\M01-S02\\Ex_08\\SLNEx_08\\Ex_08\\Ex_08.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Jonathan\\Programação\\Fullstack\\Exercícios\\Fullstack-Senai\\M01-S02\\Ex_03\\SLNEx_08\\Ex_08\\Ex_08.csproj",
+        "projectUniqueName": "D:\\Documentos\\Jonathan\\Programação\\Fullstack\\Exercícios\\Fullstack-Senai\\M01-S02\\Ex_08\\SLNEx_08\\Ex_08\\Ex_08.csproj",
         "projectName": "Ex_08",
-        "projectPath": "D:\\Documentos\\Jonathan\\Programação\\Fullstack\\Exercícios\\Fullstack-Senai\\M01-S02\\Ex_03\\SLNEx_08\\Ex_08\\Ex_08.csproj",
+        "projectPath": "D:\\Documentos\\Jonathan\\Programação\\Fullstack\\Exercícios\\Fullstack-Senai\\M01-S02\\Ex_08\\SLNEx_08\\Ex_08\\Ex_08.csproj",
         "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Jonathan\\Programação\\Fullstack\\Exercícios\\Fullstack-Senai\\M01-S02\\Ex_03\\SLNEx_08\\Ex_08\\obj\\",
+        "outputPath": "D:\\Documentos\\Jonathan\\Programação\\Fullstack\\Exercícios\\Fullstack-Senai\\M01-S02\\Ex_08\\SLNEx_08\\Ex_08\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
