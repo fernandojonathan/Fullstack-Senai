@@ -15,7 +15,7 @@ namespace M01_S04
         public decimal ValorCompra{ get; set; }
 
 
-        public Bebidas(int id, string nomeBebida, decimal miliLitros)
+        public Bebidas (int id, string nomeBebida, decimal miliLitros)
         {
             Id = id;
             NomeBebida = nomeBebida;

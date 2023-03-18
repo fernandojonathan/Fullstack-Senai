@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace M01_S04
 {
-    public class Suco : Bebidas
+    public class Sucos : Bebidas
     {
         public string TipoCaixa { get; set; }
 
@@ -13,7 +13,7 @@ namespace M01_S04
 
 
 
-    public Suco (string tipoCaixa, int id, string nomeBebida, decimal miliLitros) : base (id, nomeBebida, miliLitros)
+    public Sucos (string tipoCaixa, int id, string nomeBebida, decimal miliLitros) : base (id, nomeBebida, miliLitros)
         {
            this.TipoCaixa = tipoCaixa;
         }
